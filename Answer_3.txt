@@ -1,0 +1,8 @@
+QUESTION : Define accessibility in the context of web development. Discuss why it's essential to create accessible 
+websites and how it benefits different user groups.
+
+ANSWER : Accessibility in the context of web development is the way in which differently abled people can also easily access and interact with the web page.It can be accessed using screen readers , voice recognition machines ,etc in which the content of the web page is read out loud.For that web page should be made descriptive and properly structured using semantic tags.Also the multimedia content should contain an alternative texts which should be descriptive so that the people who can't see can also understand the content.
+
+It is very essential to make accessible websites so that any accessibility issue can be avoided.So that if the website is accessed by differently abled user group ,the website could be easily used by them.It also increases the usablity of the website as it makes more number of people to use the website.
+
+Making the websites accessible benefits the different user groups as if read by the screen readers it can be easily understood what content isthe website wanted to interpret.Providing the alternative texts will help the people to understand what multimedia content is shown. Providing title with descriptive content will help the user understand what the website want to convey. Providing the tab index will make the website easily acccessed by keyboard only.   

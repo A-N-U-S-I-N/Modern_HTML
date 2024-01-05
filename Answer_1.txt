@@ -1,0 +1,15 @@
+QUESTION : List out the features of HTML5.
+
+ANSWER : Some of the features of HTML5 are :
+
+ 1. Improved multimedia support as there will be no requirement of plug-ins like Adobe Flash for multimedia content.Now there are built-in tags like audio and video for multimedia support.
+
+ 2. Acessibility Support as there are alternative texts are available where any image is not supported so that screen reader can help disabled people for knowing the content of the webpage.
+
+ 3. Increased semantic tags which helps to organize the content ,give it proper meaning and structure.Some of the semantic tags are <header>, <nav>,<footer>,<article>,<main>,<section>.
+
+ 4. Increased form elements which include date,time and color type in input attributes.Also got the attributes like autofocus and required.
+
+ 5. Give the access of geolocation APIs which help the webpage to provide the content to the user according to the user's location.
+
+ 6.Local Storage is made available which avoid the to and forth frequent moving to servers for accessing the required user's request.

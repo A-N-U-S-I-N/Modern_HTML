@@ -1,0 +1,9 @@
+QUESTION :  List any 3 ways which help us in improving the accessibility of HTML.
+
+ANSWER : 3 ways which helps us in improving the accessibility in HTML are :
+
+1. By providing alternative texts using <alt> tag to all the multimedia content like images, audio and video so that it can be easily acccessed and interacted by people with disabilities using screen screaders.
+
+2. By providing title to every links and content using title attribute which will provide a descriptive and meaningful text as a pop up when the user will hover over the element.
+
+3. Using semantic tags like <header>, <nav>, <main>, <section>, <article>, <footer> so that the browser and screen reader can easily understand the content and structure of the web page and can interpret to the user correctly.
